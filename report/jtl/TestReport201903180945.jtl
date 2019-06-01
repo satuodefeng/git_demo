@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="2387" it="0" lt="0" ct="2386" ts="1552873530279" s="false" lb="商城_登录" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection refused: connect" tn="性能测试_固定定时间 1-1" dt="text" by="2225" sby="0" ng="1" na="12"/>
+<httpSample t="2384" it="0" lt="0" ct="2384" ts="1552873532700" s="false" lb="添加品类" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection refused: connect" tn="性能测试_固定定时间 1-1" dt="text" by="2225" sby="0" ng="1" na="12"/>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="231" it="0" lt="230" ct="68" ts="1553852918515" s="true" lb="商城_登录" rc="200" rm="" tn="性能测试_固定定时间 1-1" dt="text" by="624" sby="236" ng="1" na="5"/>
+<httpSample t="567" it="0" lt="567" ct="0" ts="1553852918765" s="true" lb="添加品类" rc="200" rm="" tn="性能测试_固定定时间 1-1" dt="text" by="407" sby="598" ng="1" na="11"/>
