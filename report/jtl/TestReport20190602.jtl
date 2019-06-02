@@ -1,0 +1,1605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="205" it="0" lt="203" ct="95" ts="1559465960450" s="true" lb="商城-登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-5" dt="text" by="736" sby="509" ng="15" na="15"/>
+<httpSample t="189" it="0" lt="189" ct="66" ts="1559465960477" s="true" lb="商城-登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-7" dt="text" by="736" sby="509" ng="15" na="15"/>
+<httpSample t="205" it="0" lt="203" ct="93" ts="1559465960450" s="true" lb="商城-登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-2" dt="text" by="736" sby="509" ng="15" na="15"/>
+<httpSample t="204" it="0" lt="203" ct="94" ts="1559465960450" s="true" lb="商城-登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-4" dt="text" by="736" sby="509" ng="15" na="15"/>
+<httpSample t="111" it="0" lt="110" ct="7" ts="1559465960543" s="true" lb="商城-登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-10" dt="text" by="736" sby="509" ng="15" na="15"/>
+<httpSample t="156" it="0" lt="155" ct="45" ts="1559465960498" s="true" lb="商城-登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-8" dt="text" by="736" sby="509" ng="15" na="15"/>
+<httpSample t="204" it="0" lt="204" ct="92" ts="1559465960450" s="true" lb="商城-登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-1" dt="text" by="736" sby="509" ng="15" na="15"/>
+<httpSample t="99" it="0" lt="99" ct="10" ts="1559465960557" s="true" lb="商城-登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-11" dt="text" by="736" sby="509" ng="15" na="15"/>
+<httpSample t="132" it="0" lt="132" ct="16" ts="1559465960528" s="true" lb="商城-登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-9" dt="text" by="736" sby="509" ng="15" na="15"/>
+<httpSample t="233" it="0" lt="233" ct="94" ts="1559465960450" s="true" lb="商城-登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-3" dt="text" by="736" sby="509" ng="16" na="16"/>
+<httpSample t="226" it="0" lt="226" ct="84" ts="1559465960460" s="true" lb="商城-登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-6" dt="text" by="736" sby="509" ng="16" na="16"/>
+<httpSample t="95" it="0" lt="95" ct="8" ts="1559465960613" s="true" lb="商城-登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-13" dt="text" by="736" sby="509" ng="17" na="17"/>
+<httpSample t="35" it="0" lt="35" ct="0" ts="1559465960675" s="true" lb="商城-登录-返回用户信息" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-10" dt="text" by="655" sby="707" ng="17" na="17"/>
+<httpSample t="39" it="0" lt="39" ct="0" ts="1559465960675" s="true" lb="商城-登录-返回用户信息" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-2" dt="text" by="655" sby="707" ng="17" na="17"/>
+<httpSample t="40" it="0" lt="40" ct="0" ts="1559465960674" s="true" lb="商城-登录-返回用户信息" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-4" dt="text" by="655" sby="707" ng="17" na="17"/>
+<httpSample t="43" it="0" lt="43" ct="0" ts="1559465960674" s="true" lb="商城-登录-返回用户信息" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-7" dt="text" by="655" sby="707" ng="17" na="17"/>
+<httpSample t="42" it="0" lt="42" ct="0" ts="1559465960676" s="true" lb="商城-登录-返回用户信息" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-8" dt="text" by="655" sby="707" ng="17" na="17"/>
+<httpSample t="45" it="0" lt="45" ct="0" ts="1559465960674" s="true" lb="商城-登录-返回用户信息" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-5" dt="text" by="655" sby="707" ng="17" na="17"/>
+<httpSample t="42" it="0" lt="42" ct="0" ts="1559465960678" s="true" lb="商城-登录-返回用户信息" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-11" dt="text" by="655" sby="707" ng="17" na="17"/>
+<httpSample t="44" it="0" lt="44" ct="0" ts="1559465960678" s="true" lb="商城-登录-返回用户信息" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-1" dt="text" by="655" sby="707" ng="17" na="17"/>
+<httpSample t="43" it="0" lt="43" ct="0" ts="1559465960684" s="true" lb="商城-登录-返回用户信息" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-3" dt="text" by="655" sby="707" ng="18" na="18"/>
+<httpSample t="25" it="0" lt="24" ct="0" ts="1559465960709" s="true" lb="商城-登录-返回用户信息" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-13" dt="text" by="655" sby="707" ng="18" na="18"/>
+<httpSample t="153" it="0" lt="153" ct="7" ts="1559465960581" s="true" lb="商城-登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-12" dt="text" by="736" sby="509" ng="18" na="18"/>
+<httpSample t="56" it="0" lt="56" ct="0" ts="1559465960678" s="true" lb="商城-登录-返回用户信息" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-9" dt="text" by="655" sby="707" ng="18" na="18"/>
+<httpSample t="120" it="0" lt="120" ct="6" ts="1559465960644" s="true" lb="商城-登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-14" dt="text" by="736" sby="509" ng="20" na="20"/>
+<httpSample t="116" it="0" lt="116" ct="6" ts="1559465960648" s="true" lb="商城-登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-15" dt="text" by="736" sby="509" ng="20" na="20"/>
+<httpSample t="47" it="0" lt="47" ct="0" ts="1559465960718" s="true" lb="商城-登录-返回用户信息-查询商品分类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-7" dt="text" by="1708" sby="740" ng="20" na="20"/>
+<httpSample t="53" it="0" lt="53" ct="0" ts="1559465960712" s="true" lb="商城-登录-返回用户信息-查询商品分类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-10" dt="text" by="1708" sby="740" ng="20" na="20"/>
+<httpSample t="52" it="0" lt="52" ct="0" ts="1559465960715" s="true" lb="商城-登录-返回用户信息-查询商品分类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-2" dt="text" by="1708" sby="740" ng="20" na="20"/>
+<httpSample t="59" it="0" lt="59" ct="0" ts="1559465960715" s="true" lb="商城-登录-返回用户信息-查询商品分类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-4" dt="text" by="1708" sby="740" ng="20" na="20"/>
+<httpSample t="60" it="0" lt="60" ct="0" ts="1559465960718" s="true" lb="商城-登录-返回用户信息-查询商品分类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-8" dt="text" by="1708" sby="740" ng="20" na="20"/>
+<httpSample t="99" it="0" lt="99" ct="0" ts="1559465960689" s="true" lb="商城-登录-返回用户信息" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-6" dt="text" by="655" sby="707" ng="21" na="21"/>
+<httpSample t="23" it="0" lt="23" ct="0" ts="1559465960765" s="true" lb="商城-登录-返回用户信息" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-14" dt="text" by="655" sby="707" ng="21" na="21"/>
+<httpSample t="62" it="0" lt="62" ct="0" ts="1559465960728" s="true" lb="商城-登录-返回用户信息-查询商品分类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-3" dt="text" by="1708" sby="740" ng="21" na="21"/>
+<httpSample t="99" it="0" lt="99" ct="8" ts="1559465960694" s="true" lb="商城-登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-17" dt="text" by="736" sby="509" ng="21" na="21"/>
+<httpSample t="30" it="0" lt="30" ct="0" ts="1559465960765" s="true" lb="商城-登录-返回用户信息" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-15" dt="text" by="655" sby="707" ng="21" na="21"/>
+<httpSample t="70" it="0" lt="70" ct="0" ts="1559465960735" s="true" lb="商城-登录-返回用户信息-查询商品分类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-9" dt="text" by="1708" sby="740" ng="21" na="21"/>
+<httpSample t="115" it="0" lt="115" ct="8" ts="1559465960690" s="true" lb="商城-登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-16" dt="text" by="736" sby="509" ng="21" na="21"/>
+<httpSample t="102" it="0" lt="102" ct="0" ts="1559465960721" s="true" lb="商城-登录-返回用户信息-查询商品分类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-11" dt="text" by="1708" sby="740" ng="22" na="22"/>
+<httpSample t="95" it="0" lt="94" ct="0" ts="1559465960735" s="true" lb="商城-登录-返回用户信息-查询商品分类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-13" dt="text" by="1708" sby="740" ng="23" na="23"/>
+<httpSample t="110" it="0" lt="110" ct="0" ts="1559465960722" s="true" lb="商城-登录-返回用户信息-查询商品分类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-1" dt="text" by="1708" sby="740" ng="23" na="23"/>
+<httpSample t="98" it="0" lt="98" ct="0" ts="1559465960735" s="true" lb="商城-登录-返回用户信息" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-12" dt="text" by="655" sby="707" ng="23" na="23"/>
+<httpSample t="36" it="0" lt="36" ct="0" ts="1559465960805" s="true" lb="商城-登录-返回用户信息" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-16" dt="text" by="655" sby="707" ng="23" na="23"/>
+<httpSample t="47" it="0" lt="47" ct="0" ts="1559465960794" s="true" lb="商城-登录-返回用户信息" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-17" dt="text" by="655" sby="707" ng="23" na="23"/>
+<httpSample t="123" it="0" lt="123" ct="0" ts="1559465960720" s="true" lb="商城-登录-返回用户信息-查询商品分类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-5" dt="text" by="1708" sby="740" ng="23" na="23"/>
+<httpSample t="57" it="0" lt="57" ct="0" ts="1559465960789" s="true" lb="商城-登录-返回用户信息-查询商品分类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-14" dt="text" by="1708" sby="740" ng="24" na="24"/>
+<httpSample t="107" it="0" lt="107" ct="8" ts="1559465960741" s="true" lb="商城-登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-19" dt="text" by="736" sby="509" ng="24" na="24"/>
+<httpSample t="59" it="0" lt="59" ct="0" ts="1559465960789" s="true" lb="商城-登录-返回用户信息-查询商品分类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-6" dt="text" by="1708" sby="740" ng="24" na="24"/>
+<httpSample t="55" it="0" lt="55" ct="0" ts="1559465960796" s="true" lb="商城-登录-返回用户信息-查询商品分类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-15" dt="text" by="1708" sby="740" ng="24" na="24"/>
+<httpSample t="101" it="0" lt="101" ct="7" ts="1559465960763" s="true" lb="商城-登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-20" dt="text" by="736" sby="509" ng="24" na="24"/>
+<httpSample t="23" it="0" lt="23" ct="0" ts="1559465960842" s="true" lb="商城-登录-返回用户信息-查询商品分类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-16" dt="text" by="1708" sby="740" ng="24" na="24"/>
+<httpSample t="36" it="0" lt="36" ct="0" ts="1559465960834" s="true" lb="商城-登录-返回用户信息-查询商品分类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-12" dt="text" by="1708" sby="740" ng="25" na="25"/>
+<httpSample t="33" it="0" lt="33" ct="0" ts="1559465960842" s="true" lb="商城-登录-返回用户信息-查询商品分类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-17" dt="text" by="1708" sby="740" ng="25" na="25"/>
+<httpSample t="28" it="0" lt="28" ct="0" ts="1559465960850" s="true" lb="商城-登录-返回用户信息" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-19" dt="text" by="655" sby="707" ng="25" na="25"/>
+<httpSample t="15" it="0" lt="15" ct="0" ts="1559465960865" s="true" lb="商城-登录-返回用户信息" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-20" dt="text" by="655" sby="707" ng="25" na="25"/>
+<httpSample t="103" it="0" lt="103" ct="7" ts="1559465960783" s="true" lb="商城-登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-21" dt="text" by="736" sby="509" ng="25" na="25"/>
+<httpSample t="164" it="0" lt="164" ct="9" ts="1559465960725" s="true" lb="商城-登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-18" dt="text" by="736" sby="509" ng="25" na="25"/>
+<httpSample t="89" it="0" lt="89" ct="12" ts="1559465960805" s="true" lb="商城-登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-22" dt="text" by="736" sby="509" ng="26" na="26"/>
+<httpSample t="20" it="0" lt="20" ct="0" ts="1559465960881" s="true" lb="商城-登录-返回用户信息-查询商品分类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-20" dt="text" by="1708" sby="740" ng="26" na="26"/>
+<httpSample t="20" it="0" lt="20" ct="0" ts="1559465960887" s="true" lb="商城-登录-返回用户信息" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-21" dt="text" by="655" sby="707" ng="26" na="26"/>
+<httpSample t="33" it="0" lt="33" ct="0" ts="1559465960878" s="true" lb="商城-登录-返回用户信息-查询商品分类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-19" dt="text" by="1708" sby="740" ng="27" na="27"/>
+<httpSample t="16" it="0" lt="16" ct="0" ts="1559465960895" s="true" lb="商城-登录-返回用户信息" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-22" dt="text" by="655" sby="707" ng="27" na="27"/>
+<httpSample t="25" it="0" lt="25" ct="0" ts="1559465960890" s="true" lb="商城-登录-返回用户信息" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-18" dt="text" by="655" sby="707" ng="27" na="27"/>
+<httpSample t="89" it="0" lt="89" ct="12" ts="1559465960826" s="true" lb="商城-登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-23" dt="text" by="736" sby="509" ng="27" na="27"/>
+<httpSample t="67" it="0" lt="67" ct="14" ts="1559465960850" s="true" lb="商城-登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-24" dt="text" by="736" sby="509" ng="27" na="27"/>
+<httpSample t="60" it="0" lt="60" ct="6" ts="1559465960869" s="true" lb="商城-登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-25" dt="text" by="736" sby="509" ng="27" na="27"/>
+<httpSample t="23" it="0" lt="22" ct="0" ts="1559465960908" s="true" lb="商城-登录-返回用户信息-查询商品分类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-21" dt="text" by="1708" sby="740" ng="27" na="27"/>
+<httpSample t="16" it="0" lt="16" ct="0" ts="1559465960916" s="true" lb="商城-登录-返回用户信息" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-23" dt="text" by="655" sby="707" ng="28" na="28"/>
+<httpSample t="20" it="0" lt="20" ct="0" ts="1559465960912" s="true" lb="商城-登录-返回用户信息-查询商品分类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-22" dt="text" by="1708" sby="740" ng="28" na="28"/>
+<httpSample t="23" it="0" lt="23" ct="0" ts="1559465960918" s="true" lb="商城-登录-返回用户信息" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-24" dt="text" by="655" sby="707" ng="28" na="28"/>
+<httpSample t="27" it="0" lt="27" ct="0" ts="1559465960916" s="true" lb="商城-登录-返回用户信息-查询商品分类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-18" dt="text" by="1708" sby="740" ng="28" na="28"/>
+<httpSample t="53" it="0" lt="53" ct="7" ts="1559465960894" s="true" lb="商城-登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-26" dt="text" by="736" sby="509" ng="28" na="28"/>
+<httpSample t="24" it="0" lt="23" ct="0" ts="1559465960930" s="true" lb="商城-登录-返回用户信息" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-25" dt="text" by="655" sby="707" ng="29" na="29"/>
+<httpSample t="24" it="0" lt="24" ct="0" ts="1559465960932" s="true" lb="商城-登录-返回用户信息-查询商品分类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-23" dt="text" by="1708" sby="740" ng="29" na="29"/>
+<httpSample t="15" it="0" lt="15" ct="0" ts="1559465960948" s="true" lb="商城-登录-返回用户信息" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-26" dt="text" by="655" sby="707" ng="29" na="29"/>
+<httpSample t="21" it="0" lt="21" ct="0" ts="1559465960942" s="true" lb="商城-登录-返回用户信息-查询商品分类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-24" dt="text" by="1708" sby="740" ng="29" na="29"/>
+<httpSample t="33" it="0" lt="33" ct="7" ts="1559465960932" s="true" lb="商城-登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-28" dt="text" by="736" sby="509" ng="29" na="29"/>
+<httpSample t="55" it="0" lt="55" ct="10" ts="1559465960910" s="true" lb="商城-登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-27" dt="text" by="736" sby="509" ng="29" na="29"/>
+<httpSample t="18" it="0" lt="18" ct="0" ts="1559465960964" s="true" lb="商城-登录-返回用户信息-查询商品分类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-26" dt="text" by="1708" sby="740" ng="30" na="30"/>
+<httpSample t="30" it="0" lt="30" ct="0" ts="1559465960955" s="true" lb="商城-登录-返回用户信息-查询商品分类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-25" dt="text" by="1708" sby="740" ng="30" na="30"/>
+<httpSample t="19" it="0" lt="19" ct="0" ts="1559465960966" s="true" lb="商城-登录-返回用户信息" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-27" dt="text" by="655" sby="707" ng="30" na="30"/>
+<httpSample t="40" it="0" lt="40" ct="11" ts="1559465960950" s="true" lb="商城-登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-29" dt="text" by="736" sby="509" ng="30" na="30"/>
+<httpSample t="27" it="0" lt="27" ct="0" ts="1559465960965" s="true" lb="商城-登录-返回用户信息" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-28" dt="text" by="655" sby="707" ng="31" na="31"/>
+<httpSample t="19" it="0" lt="19" ct="0" ts="1559465960991" s="true" lb="商城-登录-返回用户信息" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-29" dt="text" by="655" sby="707" ng="31" na="31"/>
+<httpSample t="26" it="0" lt="26" ct="0" ts="1559465960986" s="true" lb="商城-登录-返回用户信息-查询商品分类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-27" dt="text" by="1708" sby="740" ng="31" na="31"/>
+<httpSample t="20" it="0" lt="20" ct="0" ts="1559465960993" s="true" lb="商城-登录-返回用户信息-查询商品分类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-28" dt="text" by="1708" sby="740" ng="31" na="31"/>
+<httpSample t="43" it="0" lt="43" ct="6" ts="1559465960970" s="true" lb="商城-登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-30" dt="text" by="736" sby="509" ng="31" na="31"/>
+<httpSample t="16" it="0" lt="16" ct="0" ts="1559465961014" s="true" lb="商城-登录-返回用户信息" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-30" dt="text" by="655" sby="707" ng="32" na="32"/>
+<httpSample t="22" it="0" lt="22" ct="0" ts="1559465961011" s="true" lb="商城-登录-返回用户信息-查询商品分类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-29" dt="text" by="1708" sby="740" ng="32" na="32"/>
+<httpSample t="18" it="0" lt="18" ct="0" ts="1559465961030" s="true" lb="商城-登录-返回用户信息-查询商品分类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-30" dt="text" by="1708" sby="740" ng="33" na="33"/>
+<httpSample t="62" it="0" lt="62" ct="14" ts="1559465960996" s="true" lb="商城-登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-31" dt="text" by="736" sby="509" ng="34" na="34"/>
+<httpSample t="44" it="0" lt="44" ct="8" ts="1559465961015" s="true" lb="商城-登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-32" dt="text" by="736" sby="509" ng="34" na="34"/>
+<httpSample t="29" it="0" lt="29" ct="7" ts="1559465961035" s="true" lb="商城-登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-33" dt="text" by="736" sby="509" ng="34" na="34"/>
+<httpSample t="12" it="0" lt="12" ct="0" ts="1559465961060" s="true" lb="商城-登录-返回用户信息" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-32" dt="text" by="655" sby="707" ng="34" na="34"/>
+<httpSample t="12" it="0" lt="12" ct="0" ts="1559465961065" s="true" lb="商城-登录-返回用户信息" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-33" dt="text" by="655" sby="707" ng="35" na="35"/>
+<httpSample t="27" it="0" lt="27" ct="0" ts="1559465961059" s="true" lb="商城-登录-返回用户信息" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-31" dt="text" by="655" sby="707" ng="35" na="35"/>
+<httpSample t="29" it="0" lt="28" ct="0" ts="1559465961073" s="true" lb="商城-登录-返回用户信息-查询商品分类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-32" dt="text" by="1708" sby="740" ng="36" na="36"/>
+<httpSample t="51" it="0" lt="51" ct="8" ts="1559465961055" s="true" lb="商城-登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-34" dt="text" by="736" sby="509" ng="36" na="36"/>
+<httpSample t="30" it="0" lt="30" ct="0" ts="1559465961078" s="true" lb="商城-登录-返回用户信息-查询商品分类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-33" dt="text" by="1708" sby="740" ng="36" na="36"/>
+<httpSample t="25" it="0" lt="25" ct="0" ts="1559465961086" s="true" lb="商城-登录-返回用户信息-查询商品分类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-31" dt="text" by="1708" sby="740" ng="36" na="36"/>
+<httpSample t="48" it="0" lt="48" ct="8" ts="1559465961075" s="true" lb="商城-登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-35" dt="text" by="736" sby="509" ng="37" na="37"/>
+<httpSample t="20" it="0" lt="20" ct="0" ts="1559465961107" s="true" lb="商城-登录-返回用户信息" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-34" dt="text" by="655" sby="707" ng="37" na="37"/>
+<httpSample t="36" it="0" lt="36" ct="7" ts="1559465961097" s="true" lb="商城-登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-36" dt="text" by="736" sby="509" ng="37" na="37"/>
+<httpSample t="17" it="0" lt="17" ct="0" ts="1559465961124" s="true" lb="商城-登录-返回用户信息" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-35" dt="text" by="655" sby="707" ng="38" na="38"/>
+<httpSample t="20" it="0" lt="20" ct="0" ts="1559465961128" s="true" lb="商城-登录-返回用户信息-查询商品分类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-34" dt="text" by="1708" sby="740" ng="38" na="38"/>
+<httpSample t="19" it="0" lt="19" ct="0" ts="1559465961134" s="true" lb="商城-登录-返回用户信息" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-36" dt="text" by="655" sby="707" ng="38" na="38"/>
+<httpSample t="21" it="0" lt="21" ct="0" ts="1559465961142" s="true" lb="商城-登录-返回用户信息-查询商品分类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-35" dt="text" by="1708" sby="740" ng="39" na="39"/>
+<httpSample t="16" it="0" lt="16" ct="0" ts="1559465961153" s="true" lb="商城-登录-返回用户信息-查询商品分类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-36" dt="text" by="1708" sby="740" ng="39" na="39"/>
+<httpSample t="50" it="0" lt="50" ct="6" ts="1559465961121" s="true" lb="商城-登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-37" dt="text" by="736" sby="509" ng="39" na="39"/>
+<httpSample t="42" it="0" lt="42" ct="10" ts="1559465961136" s="true" lb="商城-登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-38" dt="text" by="736" sby="509" ng="40" na="40"/>
+<httpSample t="15" it="0" lt="15" ct="0" ts="1559465961172" s="true" lb="商城-登录-返回用户信息" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-37" dt="text" by="655" sby="707" ng="40" na="40"/>
+<httpSample t="44" it="0" lt="44" ct="8" ts="1559465961158" s="true" lb="商城-登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-39" dt="text" by="736" sby="509" ng="41" na="41"/>
+<httpSample t="24" it="0" lt="24" ct="0" ts="1559465961179" s="true" lb="商城-登录-返回用户信息" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-38" dt="text" by="655" sby="707" ng="41" na="41"/>
+<httpSample t="22" it="0" lt="21" ct="0" ts="1559465961188" s="true" lb="商城-登录-返回用户信息-查询商品分类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-37" dt="text" by="1708" sby="740" ng="41" na="41"/>
+<httpSample t="39" it="0" lt="39" ct="7" ts="1559465961178" s="true" lb="商城-登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-40" dt="text" by="736" sby="509" ng="42" na="42"/>
+<httpSample t="19" it="0" lt="18" ct="0" ts="1559465961203" s="true" lb="商城-登录-返回用户信息" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-39" dt="text" by="655" sby="707" ng="42" na="42"/>
+<httpSample t="32" it="0" lt="32" ct="0" ts="1559465961204" s="true" lb="商城-登录-返回用户信息-查询商品分类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-38" dt="text" by="1708" sby="740" ng="42" na="42"/>
+<httpSample t="20" it="0" lt="20" ct="0" ts="1559465961218" s="true" lb="商城-登录-返回用户信息" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-40" dt="text" by="655" sby="707" ng="43" na="43"/>
+<httpSample t="40" it="0" lt="40" ct="6" ts="1559465961199" s="true" lb="商城-登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-41" dt="text" by="736" sby="509" ng="43" na="43"/>
+<httpSample t="26" it="0" lt="26" ct="0" ts="1559465961222" s="true" lb="商城-登录-返回用户信息-查询商品分类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-39" dt="text" by="1708" sby="740" ng="43" na="43"/>
+<httpSample t="13" it="0" lt="12" ct="0" ts="1559465961240" s="true" lb="商城-登录-返回用户信息" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-41" dt="text" by="655" sby="707" ng="43" na="43"/>
+<httpSample t="42" it="0" lt="42" ct="12" ts="1559465961217" s="true" lb="商城-登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-42" dt="text" by="736" sby="509" ng="43" na="43"/>
+<httpSample t="24" it="0" lt="24" ct="0" ts="1559465961238" s="true" lb="商城-登录-返回用户信息-查询商品分类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-40" dt="text" by="1708" sby="740" ng="44" na="44"/>
+<httpSample t="16" it="0" lt="16" ct="0" ts="1559465961253" s="true" lb="商城-登录-返回用户信息-查询商品分类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-41" dt="text" by="1708" sby="740" ng="44" na="44"/>
+<httpSample t="16" it="0" lt="16" ct="0" ts="1559465961260" s="true" lb="商城-登录-返回用户信息" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-42" dt="text" by="655" sby="707" ng="44" na="44"/>
+<httpSample t="51" it="0" lt="51" ct="11" ts="1559465961238" s="true" lb="商城-登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-43" dt="text" by="736" sby="509" ng="45" na="45"/>
+<httpSample t="22" it="0" lt="22" ct="0" ts="1559465961277" s="true" lb="商城-登录-返回用户信息-查询商品分类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-42" dt="text" by="1708" sby="740" ng="46" na="46"/>
+<httpSample t="25" it="0" lt="25" ct="0" ts="1559465961290" s="true" lb="商城-登录-返回用户信息" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-43" dt="text" by="655" sby="707" ng="47" na="47"/>
+<httpSample t="66" it="0" lt="66" ct="11" ts="1559465961260" s="true" lb="商城-登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-44" dt="text" by="736" sby="509" ng="47" na="47"/>
+<httpSample t="23" it="0" lt="23" ct="0" ts="1559465961327" s="true" lb="商城-登录-返回用户信息" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-44" dt="text" by="655" sby="707" ng="48" na="48"/>
+<httpSample t="72" it="0" lt="72" ct="11" ts="1559465961280" s="true" lb="商城-登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-45" dt="text" by="736" sby="509" ng="48" na="48"/>
+<httpSample t="38" it="0" lt="38" ct="0" ts="1559465961316" s="true" lb="商城-登录-返回用户信息-查询商品分类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-43" dt="text" by="1708" sby="740" ng="48" na="48"/>
+<httpSample t="57" it="0" lt="57" ct="7" ts="1559465961299" s="true" lb="商城-登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-46" dt="text" by="736" sby="509" ng="48" na="48"/>
+<httpSample t="44" it="0" lt="44" ct="6" ts="1559465961314" s="true" lb="商城-登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-47" dt="text" by="736" sby="509" ng="48" na="48"/>
+<httpSample t="20" it="0" lt="20" ct="0" ts="1559465961353" s="true" lb="商城-登录-返回用户信息" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-45" dt="text" by="655" sby="707" ng="49" na="49"/>
+<httpSample t="27" it="0" lt="27" ct="0" ts="1559465961351" s="true" lb="商城-登录-返回用户信息-查询商品分类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-44" dt="text" by="1708" sby="740" ng="49" na="49"/>
+<httpSample t="19" it="0" lt="19" ct="0" ts="1559465961359" s="true" lb="商城-登录-返回用户信息" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-47" dt="text" by="655" sby="707" ng="49" na="49"/>
+<httpSample t="25" it="0" lt="25" ct="0" ts="1559465961356" s="true" lb="商城-登录-返回用户信息" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-46" dt="text" by="655" sby="707" ng="50" na="50"/>
+<httpSample t="54" it="0" lt="54" ct="6" ts="1559465961339" s="true" lb="商城-登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-48" dt="text" by="736" sby="509" ng="50" na="50"/>
+<httpSample t="26" it="0" lt="26" ct="0" ts="1559465961374" s="true" lb="商城-登录-返回用户信息-查询商品分类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-45" dt="text" by="1708" sby="740" ng="50" na="50"/>
+<httpSample t="21" it="0" lt="21" ct="0" ts="1559465961382" s="true" lb="商城-登录-返回用户信息-查询商品分类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-46" dt="text" by="1708" sby="740" ng="50" na="50"/>
+<httpSample t="29" it="0" lt="29" ct="0" ts="1559465961378" s="true" lb="商城-登录-返回用户信息-查询商品分类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-47" dt="text" by="1708" sby="740" ng="50" na="50"/>
+<httpSample t="16" it="0" lt="16" ct="0" ts="1559465961394" s="true" lb="商城-登录-返回用户信息" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-48" dt="text" by="655" sby="707" ng="50" na="50"/>
+<httpSample t="54" it="0" lt="54" ct="13" ts="1559465961360" s="true" lb="商城-登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-49" dt="text" by="736" sby="509" ng="50" na="50"/>
+<httpSample t="37" it="0" lt="37" ct="6" ts="1559465961382" s="true" lb="商城-登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-50" dt="text" by="736" sby="509" ng="50" na="50"/>
+<httpSample t="13" it="0" lt="13" ct="0" ts="1559465961414" s="true" lb="商城-登录-返回用户信息" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-49" dt="text" by="655" sby="707" ng="50" na="50"/>
+<httpSample t="19" it="0" lt="19" ct="0" ts="1559465961410" s="true" lb="商城-登录-返回用户信息-查询商品分类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-48" dt="text" by="1708" sby="740" ng="50" na="50"/>
+<httpSample t="17" it="0" lt="17" ct="0" ts="1559465961420" s="true" lb="商城-登录-返回用户信息" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-50" dt="text" by="655" sby="707" ng="50" na="50"/>
+<httpSample t="22" it="0" lt="22" ct="0" ts="1559465961428" s="true" lb="商城-登录-返回用户信息-查询商品分类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-49" dt="text" by="1708" sby="740" ng="50" na="50"/>
+<httpSample t="16" it="0" lt="16" ct="0" ts="1559465961437" s="true" lb="商城-登录-返回用户信息-查询商品分类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-50" dt="text" by="1708" sby="740" ng="50" na="50"/>
+<httpSample t="16" it="0" lt="16" ct="0" ts="1559465961453" s="false" lb="商城_登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-50" dt="text" by="424" sby="249" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /操作成功/</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>断言持续时间</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Assertion failed! See log file.</name>
+    <failure>false</failure>
+    <error>true</error>
+    <failureMessage>java.lang.NumberFormatException: For input string: &quot;&quot;</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="24" it="0" lt="24" ct="0" ts="1559465961454" s="false" lb="商城_登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-18" dt="text" by="424" sby="249" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /操作成功/</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>断言持续时间</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Assertion failed! See log file.</name>
+    <failure>false</failure>
+    <error>true</error>
+    <failureMessage>java.lang.NumberFormatException: For input string: &quot;&quot;</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="22" it="0" lt="22" ct="0" ts="1559465961454" s="false" lb="商城_登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-27" dt="text" by="424" sby="249" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /操作成功/</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>断言持续时间</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Assertion failed! See log file.</name>
+    <failure>false</failure>
+    <error>true</error>
+    <failureMessage>java.lang.NumberFormatException: For input string: &quot;&quot;</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="23" it="0" lt="23" ct="0" ts="1559465961454" s="false" lb="商城_登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-31" dt="text" by="424" sby="249" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /操作成功/</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>断言持续时间</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Assertion failed! See log file.</name>
+    <failure>false</failure>
+    <error>true</error>
+    <failureMessage>java.lang.NumberFormatException: For input string: &quot;&quot;</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="23" it="0" lt="22" ct="0" ts="1559465961454" s="false" lb="商城_登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-20" dt="text" by="424" sby="249" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /操作成功/</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>断言持续时间</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Assertion failed! See log file.</name>
+    <failure>false</failure>
+    <error>true</error>
+    <failureMessage>java.lang.NumberFormatException: For input string: &quot;&quot;</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21" it="0" lt="21" ct="0" ts="1559465961454" s="false" lb="商城_登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-33" dt="text" by="424" sby="249" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /操作成功/</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>断言持续时间</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Assertion failed! See log file.</name>
+    <failure>false</failure>
+    <error>true</error>
+    <failureMessage>java.lang.NumberFormatException: For input string: &quot;&quot;</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="15" it="0" lt="15" ct="0" ts="1559465961453" s="false" lb="商城_登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-14" dt="text" by="424" sby="249" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /操作成功/</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>断言持续时间</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Assertion failed! See log file.</name>
+    <failure>false</failure>
+    <error>true</error>
+    <failureMessage>java.lang.NumberFormatException: For input string: &quot;&quot;</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20" it="0" lt="20" ct="0" ts="1559465961454" s="false" lb="商城_登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-25" dt="text" by="424" sby="249" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /操作成功/</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>断言持续时间</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Assertion failed! See log file.</name>
+    <failure>false</failure>
+    <error>true</error>
+    <failureMessage>java.lang.NumberFormatException: For input string: &quot;&quot;</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="35" it="0" lt="35" ct="0" ts="1559465961453" s="false" lb="商城_登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-2" dt="text" by="424" sby="249" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /操作成功/</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>断言持续时间</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Assertion failed! See log file.</name>
+    <failure>false</failure>
+    <error>true</error>
+    <failureMessage>java.lang.NumberFormatException: For input string: &quot;&quot;</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="16" it="0" lt="16" ct="0" ts="1559465961454" s="false" lb="商城_登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-15" dt="text" by="424" sby="249" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /操作成功/</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>断言持续时间</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Assertion failed! See log file.</name>
+    <failure>false</failure>
+    <error>true</error>
+    <failureMessage>java.lang.NumberFormatException: For input string: &quot;&quot;</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21" it="0" lt="21" ct="0" ts="1559465961454" s="false" lb="商城_登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-12" dt="text" by="424" sby="249" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /操作成功/</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>断言持续时间</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Assertion failed! See log file.</name>
+    <failure>false</failure>
+    <error>true</error>
+    <failureMessage>java.lang.NumberFormatException: For input string: &quot;&quot;</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="14" it="0" lt="14" ct="0" ts="1559465961454" s="false" lb="商城_登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-26" dt="text" by="424" sby="249" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /操作成功/</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>断言持续时间</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Assertion failed! See log file.</name>
+    <failure>false</failure>
+    <error>true</error>
+    <failureMessage>java.lang.NumberFormatException: For input string: &quot;&quot;</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20" it="0" lt="20" ct="0" ts="1559465961454" s="false" lb="商城_登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-17" dt="text" by="424" sby="249" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /操作成功/</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>断言持续时间</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Assertion failed! See log file.</name>
+    <failure>false</failure>
+    <error>true</error>
+    <failureMessage>java.lang.NumberFormatException: For input string: &quot;&quot;</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="16" it="0" lt="16" ct="0" ts="1559465961454" s="false" lb="商城_登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-30" dt="text" by="424" sby="249" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /操作成功/</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>断言持续时间</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Assertion failed! See log file.</name>
+    <failure>false</failure>
+    <error>true</error>
+    <failureMessage>java.lang.NumberFormatException: For input string: &quot;&quot;</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="14" it="0" lt="14" ct="0" ts="1559465961454" s="false" lb="商城_登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-16" dt="text" by="424" sby="249" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /操作成功/</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>断言持续时间</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Assertion failed! See log file.</name>
+    <failure>false</failure>
+    <error>true</error>
+    <failureMessage>java.lang.NumberFormatException: For input string: &quot;&quot;</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="17" it="0" lt="17" ct="0" ts="1559465961454" s="false" lb="商城_登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-23" dt="text" by="424" sby="249" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /操作成功/</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>断言持续时间</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Assertion failed! See log file.</name>
+    <failure>false</failure>
+    <error>true</error>
+    <failureMessage>java.lang.NumberFormatException: For input string: &quot;&quot;</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="18" it="0" lt="17" ct="0" ts="1559465961454" s="false" lb="商城_登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-22" dt="text" by="424" sby="249" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /操作成功/</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>断言持续时间</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Assertion failed! See log file.</name>
+    <failure>false</failure>
+    <error>true</error>
+    <failureMessage>java.lang.NumberFormatException: For input string: &quot;&quot;</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="12" it="0" lt="12" ct="0" ts="1559465961454" s="false" lb="商城_登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-6" dt="text" by="424" sby="249" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /操作成功/</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>断言持续时间</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Assertion failed! See log file.</name>
+    <failure>false</failure>
+    <error>true</error>
+    <failureMessage>java.lang.NumberFormatException: For input string: &quot;&quot;</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="35" it="0" lt="35" ct="0" ts="1559465961456" s="false" lb="商城_登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-45" dt="text" by="424" sby="249" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /操作成功/</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>断言持续时间</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Assertion failed! See log file.</name>
+    <failure>false</failure>
+    <error>true</error>
+    <failureMessage>java.lang.NumberFormatException: For input string: &quot;&quot;</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="35" it="0" lt="35" ct="0" ts="1559465961455" s="false" lb="商城_登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-42" dt="text" by="424" sby="249" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /操作成功/</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>断言持续时间</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Assertion failed! See log file.</name>
+    <failure>false</failure>
+    <error>true</error>
+    <failureMessage>java.lang.NumberFormatException: For input string: &quot;&quot;</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="41" it="0" lt="41" ct="0" ts="1559465961455" s="false" lb="商城_登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-41" dt="text" by="424" sby="249" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /操作成功/</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>断言持续时间</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Assertion failed! See log file.</name>
+    <failure>false</failure>
+    <error>true</error>
+    <failureMessage>java.lang.NumberFormatException: For input string: &quot;&quot;</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="43" it="0" lt="43" ct="0" ts="1559465961454" s="false" lb="商城_登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-38" dt="text" by="424" sby="249" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /操作成功/</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>断言持续时间</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Assertion failed! See log file.</name>
+    <failure>false</failure>
+    <error>true</error>
+    <failureMessage>java.lang.NumberFormatException: For input string: &quot;&quot;</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="42" it="0" lt="42" ct="0" ts="1559465961455" s="false" lb="商城_登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-49" dt="text" by="424" sby="249" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /操作成功/</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>断言持续时间</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Assertion failed! See log file.</name>
+    <failure>false</failure>
+    <error>true</error>
+    <failureMessage>java.lang.NumberFormatException: For input string: &quot;&quot;</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="37" it="0" lt="37" ct="0" ts="1559465961453" s="false" lb="商城_登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-9" dt="text" by="424" sby="249" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /操作成功/</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>断言持续时间</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Assertion failed! See log file.</name>
+    <failure>false</failure>
+    <error>true</error>
+    <failureMessage>java.lang.NumberFormatException: For input string: &quot;&quot;</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="44" it="0" lt="44" ct="0" ts="1559465961454" s="false" lb="商城_登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-19" dt="text" by="424" sby="249" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /操作成功/</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>断言持续时间</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Assertion failed! See log file.</name>
+    <failure>false</failure>
+    <error>true</error>
+    <failureMessage>java.lang.NumberFormatException: For input string: &quot;&quot;</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="45" it="0" lt="45" ct="0" ts="1559465961454" s="false" lb="商城_登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-37" dt="text" by="424" sby="249" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /操作成功/</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>断言持续时间</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Assertion failed! See log file.</name>
+    <failure>false</failure>
+    <error>true</error>
+    <failureMessage>java.lang.NumberFormatException: For input string: &quot;&quot;</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="35" it="0" lt="35" ct="0" ts="1559465961454" s="false" lb="商城_登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-35" dt="text" by="424" sby="249" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /操作成功/</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>断言持续时间</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Assertion failed! See log file.</name>
+    <failure>false</failure>
+    <error>true</error>
+    <failureMessage>java.lang.NumberFormatException: For input string: &quot;&quot;</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="34" it="0" lt="34" ct="0" ts="1559465961454" s="false" lb="商城_登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-32" dt="text" by="424" sby="249" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /操作成功/</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>断言持续时间</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Assertion failed! See log file.</name>
+    <failure>false</failure>
+    <error>true</error>
+    <failureMessage>java.lang.NumberFormatException: For input string: &quot;&quot;</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="34" it="0" lt="34" ct="0" ts="1559465961454" s="false" lb="商城_登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-40" dt="text" by="424" sby="249" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /操作成功/</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>断言持续时间</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Assertion failed! See log file.</name>
+    <failure>false</failure>
+    <error>true</error>
+    <failureMessage>java.lang.NumberFormatException: For input string: &quot;&quot;</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="34" it="0" lt="34" ct="0" ts="1559465961453" s="false" lb="商城_登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-3" dt="text" by="424" sby="249" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /操作成功/</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>断言持续时间</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Assertion failed! See log file.</name>
+    <failure>false</failure>
+    <error>true</error>
+    <failureMessage>java.lang.NumberFormatException: For input string: &quot;&quot;</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="33" it="0" lt="33" ct="0" ts="1559465961453" s="false" lb="商城_登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-7" dt="text" by="424" sby="249" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /操作成功/</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>断言持续时间</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Assertion failed! See log file.</name>
+    <failure>false</failure>
+    <error>true</error>
+    <failureMessage>java.lang.NumberFormatException: For input string: &quot;&quot;</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="31" it="0" lt="31" ct="0" ts="1559465961455" s="false" lb="商城_登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-44" dt="text" by="424" sby="249" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /操作成功/</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>断言持续时间</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Assertion failed! See log file.</name>
+    <failure>false</failure>
+    <error>true</error>
+    <failureMessage>java.lang.NumberFormatException: For input string: &quot;&quot;</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="50" it="0" lt="50" ct="0" ts="1559465961454" s="false" lb="商城_登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-39" dt="text" by="424" sby="249" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /操作成功/</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>断言持续时间</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Assertion failed! See log file.</name>
+    <failure>false</failure>
+    <error>true</error>
+    <failureMessage>java.lang.NumberFormatException: For input string: &quot;&quot;</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="28" it="0" lt="28" ct="0" ts="1559465961455" s="false" lb="商城_登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-48" dt="text" by="424" sby="249" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /操作成功/</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>断言持续时间</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Assertion failed! See log file.</name>
+    <failure>false</failure>
+    <error>true</error>
+    <failureMessage>java.lang.NumberFormatException: For input string: &quot;&quot;</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="29" it="0" lt="29" ct="0" ts="1559465961454" s="false" lb="商城_登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-24" dt="text" by="424" sby="249" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /操作成功/</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>断言持续时间</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Assertion failed! See log file.</name>
+    <failure>false</failure>
+    <error>true</error>
+    <failureMessage>java.lang.NumberFormatException: For input string: &quot;&quot;</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="28" it="0" lt="28" ct="0" ts="1559465961454" s="false" lb="商城_登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-36" dt="text" by="424" sby="249" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /操作成功/</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>断言持续时间</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Assertion failed! See log file.</name>
+    <failure>false</failure>
+    <error>true</error>
+    <failureMessage>java.lang.NumberFormatException: For input string: &quot;&quot;</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="25" it="0" lt="25" ct="0" ts="1559465961454" s="false" lb="商城_登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-21" dt="text" by="424" sby="249" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /操作成功/</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>断言持续时间</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Assertion failed! See log file.</name>
+    <failure>false</failure>
+    <error>true</error>
+    <failureMessage>java.lang.NumberFormatException: For input string: &quot;&quot;</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="26" it="0" lt="25" ct="0" ts="1559465961454" s="false" lb="商城_登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-28" dt="text" by="424" sby="249" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /操作成功/</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>断言持续时间</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Assertion failed! See log file.</name>
+    <failure>false</failure>
+    <error>true</error>
+    <failureMessage>java.lang.NumberFormatException: For input string: &quot;&quot;</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="23" it="0" lt="23" ct="0" ts="1559465961454" s="false" lb="商城_登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-29" dt="text" by="424" sby="249" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /操作成功/</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>断言持续时间</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Assertion failed! See log file.</name>
+    <failure>false</failure>
+    <error>true</error>
+    <failureMessage>java.lang.NumberFormatException: For input string: &quot;&quot;</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="50" it="0" lt="50" ct="0" ts="1559465961453" s="false" lb="商城_登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-4" dt="text" by="424" sby="249" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /操作成功/</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>断言持续时间</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Assertion failed! See log file.</name>
+    <failure>false</failure>
+    <error>true</error>
+    <failureMessage>java.lang.NumberFormatException: For input string: &quot;&quot;</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="49" it="0" lt="49" ct="0" ts="1559465961453" s="false" lb="商城_登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-1" dt="text" by="424" sby="249" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /操作成功/</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>断言持续时间</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Assertion failed! See log file.</name>
+    <failure>false</failure>
+    <error>true</error>
+    <failureMessage>java.lang.NumberFormatException: For input string: &quot;&quot;</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="50" it="0" lt="50" ct="0" ts="1559465961453" s="false" lb="商城_登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-5" dt="text" by="424" sby="249" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /操作成功/</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>断言持续时间</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Assertion failed! See log file.</name>
+    <failure>false</failure>
+    <error>true</error>
+    <failureMessage>java.lang.NumberFormatException: For input string: &quot;&quot;</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="47" it="0" lt="47" ct="0" ts="1559465961453" s="false" lb="商城_登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-13" dt="text" by="424" sby="249" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /操作成功/</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>断言持续时间</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Assertion failed! See log file.</name>
+    <failure>false</failure>
+    <error>true</error>
+    <failureMessage>java.lang.NumberFormatException: For input string: &quot;&quot;</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="46" it="0" lt="46" ct="0" ts="1559465961453" s="false" lb="商城_登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-8" dt="text" by="424" sby="249" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /操作成功/</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>断言持续时间</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Assertion failed! See log file.</name>
+    <failure>false</failure>
+    <error>true</error>
+    <failureMessage>java.lang.NumberFormatException: For input string: &quot;&quot;</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="46" it="0" lt="46" ct="0" ts="1559465961453" s="false" lb="商城_登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-10" dt="text" by="424" sby="249" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /操作成功/</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>断言持续时间</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Assertion failed! See log file.</name>
+    <failure>false</failure>
+    <error>true</error>
+    <failureMessage>java.lang.NumberFormatException: For input string: &quot;&quot;</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="44" it="0" lt="44" ct="0" ts="1559465961454" s="false" lb="商城_登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-34" dt="text" by="424" sby="249" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /操作成功/</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>断言持续时间</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Assertion failed! See log file.</name>
+    <failure>false</failure>
+    <error>true</error>
+    <failureMessage>java.lang.NumberFormatException: For input string: &quot;&quot;</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="40" it="0" lt="40" ct="0" ts="1559465961455" s="false" lb="商城_登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-47" dt="text" by="424" sby="249" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /操作成功/</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>断言持续时间</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Assertion failed! See log file.</name>
+    <failure>false</failure>
+    <error>true</error>
+    <failureMessage>java.lang.NumberFormatException: For input string: &quot;&quot;</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="42" it="0" lt="42" ct="0" ts="1559465961453" s="false" lb="商城_登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-11" dt="text" by="424" sby="249" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /操作成功/</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>断言持续时间</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Assertion failed! See log file.</name>
+    <failure>false</failure>
+    <error>true</error>
+    <failureMessage>java.lang.NumberFormatException: For input string: &quot;&quot;</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="38" it="0" lt="38" ct="0" ts="1559465961456" s="false" lb="商城_登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-46" dt="text" by="424" sby="249" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /操作成功/</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>断言持续时间</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Assertion failed! See log file.</name>
+    <failure>false</failure>
+    <error>true</error>
+    <failureMessage>java.lang.NumberFormatException: For input string: &quot;&quot;</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="39" it="0" lt="39" ct="0" ts="1559465961455" s="false" lb="商城_登录" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-43" dt="text" by="424" sby="249" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /操作成功/</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>断言持续时间</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Assertion failed! See log file.</name>
+    <failure>false</failure>
+    <error>true</error>
+    <failureMessage>java.lang.NumberFormatException: For input string: &quot;&quot;</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="35" it="0" lt="35" ct="0" ts="1559465961520" s="true" lb="添加品类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-30" dt="text" by="408" sby="597" ng="50" na="50"/>
+<httpSample t="50" it="0" lt="50" ct="0" ts="1559465961519" s="true" lb="添加品类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-14" dt="text" by="408" sby="593" ng="50" na="50"/>
+<httpSample t="52" it="0" lt="52" ct="0" ts="1559465961518" s="true" lb="添加品类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-18" dt="text" by="408" sby="603" ng="50" na="50"/>
+<httpSample t="54" it="0" lt="54" ct="0" ts="1559465961518" s="true" lb="添加品类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-31" dt="text" by="408" sby="590" ng="50" na="50"/>
+<httpSample t="65" it="0" lt="65" ct="0" ts="1559465961519" s="true" lb="添加品类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-20" dt="text" by="408" sby="597" ng="50" na="50"/>
+<httpSample t="110" it="0" lt="110" ct="0" ts="1559465961526" s="true" lb="添加品类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-28" dt="text" by="408" sby="603" ng="50" na="50"/>
+<httpSample t="117" it="0" lt="116" ct="0" ts="1559465961523" s="true" lb="添加品类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-44" dt="text" by="408" sby="593" ng="50" na="50"/>
+<httpSample t="117" it="0" lt="117" ct="0" ts="1559465961523" s="true" lb="添加品类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-7" dt="text" by="408" sby="589" ng="50" na="50"/>
+<httpSample t="117" it="0" lt="117" ct="0" ts="1559465961523" s="true" lb="添加品类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-36" dt="text" by="408" sby="590" ng="50" na="50"/>
+<httpSample t="116" it="0" lt="116" ct="0" ts="1559465961525" s="true" lb="添加品类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-10" dt="text" by="408" sby="597" ng="50" na="50"/>
+<httpSample t="126" it="0" lt="126" ct="0" ts="1559465961518" s="true" lb="添加品类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-50" dt="text" by="408" sby="597" ng="50" na="50"/>
+<httpSample t="147" it="0" lt="147" ct="0" ts="1559465961519" s="true" lb="添加品类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-33" dt="text" by="408" sby="603" ng="50" na="50"/>
+<httpSample t="149" it="0" lt="149" ct="0" ts="1559465961521" s="true" lb="添加品类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-42" dt="text" by="408" sby="589" ng="50" na="50"/>
+<httpSample t="156" it="0" lt="156" ct="0" ts="1559465961520" s="true" lb="添加品类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-26" dt="text" by="408" sby="590" ng="50" na="50"/>
+<httpSample t="166" it="0" lt="166" ct="0" ts="1559465961521" s="true" lb="添加品类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-38" dt="text" by="408" sby="603" ng="50" na="50"/>
+<httpSample t="170" it="0" lt="170" ct="0" ts="1559465961518" s="true" lb="添加品类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-27" dt="text" by="408" sby="589" ng="50" na="50"/>
+<httpSample t="180" it="0" lt="180" ct="0" ts="1559465961521" s="true" lb="添加品类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-41" dt="text" by="408" sby="590" ng="50" na="50"/>
+<httpSample t="180" it="0" lt="180" ct="0" ts="1559465961521" s="true" lb="添加品类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-45" dt="text" by="408" sby="597" ng="50" na="50"/>
+<httpSample t="184" it="0" lt="184" ct="0" ts="1559465961520" s="true" lb="添加品类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-16" dt="text" by="408" sby="590" ng="50" na="50"/>
+<httpSample t="183" it="0" lt="183" ct="0" ts="1559465961521" s="true" lb="添加品类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-6" dt="text" by="408" sby="590" ng="50" na="50"/>
+<httpSample t="183" it="0" lt="183" ct="0" ts="1559465961522" s="true" lb="添加品类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-40" dt="text" by="408" sby="597" ng="50" na="50"/>
+<httpSample t="184" it="0" lt="184" ct="0" ts="1559465961523" s="true" lb="添加品类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-24" dt="text" by="408" sby="593" ng="50" na="50"/>
+<httpSample t="185" it="0" lt="185" ct="0" ts="1559465961523" s="true" lb="添加品类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-39" dt="text" by="408" sby="593" ng="50" na="50"/>
+<httpSample t="201" it="0" lt="201" ct="0" ts="1559465961522" s="true" lb="添加品类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-37" dt="text" by="408" sby="589" ng="50" na="50"/>
+<httpSample t="218" it="0" lt="218" ct="0" ts="1559465961520" s="true" lb="添加品类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-17" dt="text" by="408" sby="589" ng="50" na="50"/>
+<httpSample t="222" it="0" lt="222" ct="0" ts="1559465961523" s="true" lb="添加品类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-3" dt="text" by="408" sby="603" ng="50" na="50"/>
+<httpSample t="230" it="0" lt="230" ct="0" ts="1559465961522" s="true" lb="添加品类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-32" dt="text" by="408" sby="589" ng="50" na="50"/>
+<httpSample t="233" it="0" lt="232" ct="0" ts="1559465961523" s="true" lb="添加品类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-48" dt="text" by="408" sby="603" ng="50" na="50"/>
+<httpSample t="233" it="0" lt="233" ct="0" ts="1559465961524" s="true" lb="添加品类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-5" dt="text" by="408" sby="597" ng="50" na="50"/>
+<httpSample t="231" it="0" lt="231" ct="0" ts="1559465961526" s="true" lb="添加品类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-11" dt="text" by="408" sby="590" ng="50" na="50"/>
+<httpSample t="235" it="0" lt="235" ct="0" ts="1559465961522" s="true" lb="添加品类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-9" dt="text" by="408" sby="593" ng="50" na="50"/>
+<httpSample t="239" it="0" lt="238" ct="0" ts="1559465961523" s="true" lb="添加品类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-49" dt="text" by="408" sby="593" ng="50" na="50"/>
+<httpSample t="242" it="0" lt="242" ct="0" ts="1559465961520" s="true" lb="添加品类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-12" dt="text" by="408" sby="589" ng="50" na="50"/>
+<httpSample t="243" it="0" lt="242" ct="0" ts="1559465961519" s="true" lb="添加品类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-25" dt="text" by="408" sby="597" ng="50" na="50"/>
+<httpSample t="238" it="0" lt="238" ct="0" ts="1559465961524" s="true" lb="添加品类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-1" dt="text" by="408" sby="590" ng="50" na="50"/>
+<httpSample t="250" it="0" lt="250" ct="0" ts="1559465961519" s="true" lb="添加品类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-2" dt="text" by="408" sby="589" ng="50" na="50"/>
+<httpSample t="249" it="0" lt="248" ct="0" ts="1559465961526" s="true" lb="添加品类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-29" dt="text" by="408" sby="593" ng="50" na="50"/>
+<httpSample t="256" it="0" lt="255" ct="0" ts="1559465961519" s="true" lb="添加品类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-15" dt="text" by="408" sby="597" ng="50" na="50"/>
+<httpSample t="263" it="0" lt="263" ct="0" ts="1559465961525" s="true" lb="添加品类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-13" dt="text" by="408" sby="603" ng="50" na="50"/>
+<httpSample t="263" it="0" lt="263" ct="0" ts="1559465961526" s="true" lb="添加品类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-34" dt="text" by="408" sby="593" ng="50" na="50"/>
+<httpSample t="266" it="0" lt="266" ct="0" ts="1559465961525" s="true" lb="添加品类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-8" dt="text" by="408" sby="603" ng="50" na="50"/>
+<httpSample t="267" it="0" lt="267" ct="0" ts="1559465961527" s="true" lb="添加品类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-46" dt="text" by="408" sby="590" ng="50" na="50"/>
+<httpSample t="277" it="0" lt="277" ct="0" ts="1559465961518" s="true" lb="添加品类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-43" dt="text" by="408" sby="603" ng="50" na="50"/>
+<httpSample t="275" it="0" lt="275" ct="0" ts="1559465961521" s="true" lb="添加品类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-23" dt="text" by="408" sby="603" ng="50" na="50"/>
+<httpSample t="271" it="0" lt="271" ct="0" ts="1559465961526" s="true" lb="添加品类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-47" dt="text" by="408" sby="589" ng="50" na="50"/>
+<httpSample t="273" it="0" lt="273" ct="0" ts="1559465961524" s="true" lb="添加品类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-4" dt="text" by="408" sby="593" ng="50" na="50"/>
+<httpSample t="285" it="0" lt="285" ct="0" ts="1559465961521" s="true" lb="添加品类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-22" dt="text" by="408" sby="589" ng="50" na="50"/>
+<httpSample t="283" it="0" lt="283" ct="0" ts="1559465961523" s="true" lb="添加品类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-21" dt="text" by="408" sby="590" ng="50" na="50"/>
+<httpSample t="288" it="0" lt="288" ct="0" ts="1559465961522" s="true" lb="添加品类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-35" dt="text" by="408" sby="597" ng="50" na="50"/>
+<httpSample t="290" it="0" lt="290" ct="0" ts="1559465961522" s="true" lb="添加品类" rc="200" rm="" tn="性能测试_查询操作_商品分类查询 1-19" dt="text" by="408" sby="593" ng="50" na="50"/>
+<sample t="93" it="0" lt="0" ct="93" ts="1559465961807" s="false" lb="查询请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-22" dt="text" by="110" sby="0" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /服装/</failureMessage>
+  </assertionResult>
+</sample>
+<sample t="163" it="0" lt="0" ct="163" ts="1559465961738" s="false" lb="查询请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-17" dt="text" by="110" sby="0" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /服装/</failureMessage>
+  </assertionResult>
+</sample>
+<sample t="196" it="0" lt="0" ct="196" ts="1559465961705" s="false" lb="查询请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-16" dt="text" by="110" sby="0" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /服装/</failureMessage>
+  </assertionResult>
+</sample>
+<sample t="259" it="0" lt="0" ct="259" ts="1559465961642" s="false" lb="查询请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-10" dt="text" by="110" sby="0" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /服装/</failureMessage>
+  </assertionResult>
+</sample>
+<sample t="148" it="0" lt="0" ct="148" ts="1559465961753" s="false" lb="查询请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-32" dt="text" by="110" sby="0" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /服装/</failureMessage>
+  </assertionResult>
+</sample>
+<sample t="145" it="0" lt="0" ct="145" ts="1559465961756" s="false" lb="查询请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-48" dt="text" by="110" sby="0" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /服装/</failureMessage>
+  </assertionResult>
+</sample>
+<sample t="105" it="0" lt="0" ct="105" ts="1559465961795" s="false" lb="查询请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-43" dt="text" by="110" sby="0" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /服装/</failureMessage>
+  </assertionResult>
+</sample>
+<sample t="144" it="0" lt="0" ct="144" ts="1559465961757" s="false" lb="查询请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-11" dt="text" by="110" sby="0" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /服装/</failureMessage>
+  </assertionResult>
+</sample>
+<sample t="102" it="0" lt="0" ct="102" ts="1559465961798" s="false" lb="查询请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-4" dt="text" by="110" sby="0" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /服装/</failureMessage>
+  </assertionResult>
+</sample>
+<sample t="144" it="0" lt="0" ct="144" ts="1559465961757" s="false" lb="查询请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-5" dt="text" by="110" sby="0" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /服装/</failureMessage>
+  </assertionResult>
+</sample>
+<sample t="103" it="0" lt="0" ct="103" ts="1559465961797" s="false" lb="查询请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-47" dt="text" by="110" sby="0" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /服装/</failureMessage>
+  </assertionResult>
+</sample>
+<sample t="143" it="0" lt="0" ct="143" ts="1559465961758" s="false" lb="查询请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-9" dt="text" by="110" sby="0" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /服装/</failureMessage>
+  </assertionResult>
+</sample>
+<sample t="90" it="0" lt="0" ct="90" ts="1559465961810" s="false" lb="查询请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-35" dt="text" by="110" sby="0" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /服装/</failureMessage>
+  </assertionResult>
+</sample>
+<sample t="138" it="0" lt="0" ct="138" ts="1559465961762" s="false" lb="查询请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-12" dt="text" by="110" sby="0" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /服装/</failureMessage>
+  </assertionResult>
+</sample>
+<sample t="139" it="0" lt="0" ct="138" ts="1559465961762" s="false" lb="查询请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-49" dt="text" by="110" sby="0" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /服装/</failureMessage>
+  </assertionResult>
+</sample>
+<sample t="138" it="0" lt="0" ct="138" ts="1559465961762" s="false" lb="查询请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-25" dt="text" by="110" sby="0" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /服装/</failureMessage>
+  </assertionResult>
+</sample>
+<sample t="344" it="0" lt="0" ct="344" ts="1559465961556" s="false" lb="查询请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-30" dt="text" by="110" sby="0" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /服装/</failureMessage>
+  </assertionResult>
+</sample>
+<sample t="137" it="0" lt="0" ct="137" ts="1559465961763" s="false" lb="查询请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-1" dt="text" by="110" sby="0" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /服装/</failureMessage>
+  </assertionResult>
+</sample>
+<sample t="130" it="0" lt="0" ct="130" ts="1559465961770" s="false" lb="查询请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-2" dt="text" by="110" sby="0" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /服装/</failureMessage>
+  </assertionResult>
+</sample>
+<sample t="108" it="0" lt="0" ct="108" ts="1559465961792" s="false" lb="查询请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-8" dt="text" by="110" sby="0" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /服装/</failureMessage>
+  </assertionResult>
+</sample>
+<sample t="106" it="0" lt="0" ct="106" ts="1559465961794" s="false" lb="查询请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-46" dt="text" by="110" sby="0" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /服装/</failureMessage>
+  </assertionResult>
+</sample>
+<sample t="87" it="0" lt="0" ct="87" ts="1559465961813" s="false" lb="查询请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-19" dt="text" by="110" sby="0" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /服装/</failureMessage>
+  </assertionResult>
+</sample>
+<sample t="125" it="0" lt="0" ct="125" ts="1559465961775" s="false" lb="查询请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-29" dt="text" by="110" sby="0" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /服装/</failureMessage>
+  </assertionResult>
+</sample>
+<sample t="93" it="0" lt="0" ct="93" ts="1559465961807" s="false" lb="查询请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-21" dt="text" by="110" sby="0" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /服装/</failureMessage>
+  </assertionResult>
+</sample>
+<sample t="125" it="0" lt="0" ct="125" ts="1559465961775" s="false" lb="查询请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-15" dt="text" by="110" sby="0" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /服装/</failureMessage>
+  </assertionResult>
+</sample>
+<sample t="104" it="0" lt="0" ct="104" ts="1559465961796" s="false" lb="查询请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-23" dt="text" by="110" sby="0" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /服装/</failureMessage>
+  </assertionResult>
+</sample>
+<sample t="111" it="0" lt="0" ct="111" ts="1559465961789" s="false" lb="查询请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-13" dt="text" by="110" sby="0" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /服装/</failureMessage>
+  </assertionResult>
+</sample>
+<sample t="110" it="0" lt="0" ct="110" ts="1559465961790" s="false" lb="查询请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-34" dt="text" by="110" sby="0" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /服装/</failureMessage>
+  </assertionResult>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="1559465961905" s="false" lb="删除请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-13" dt="text" by="110" sby="0" ng="50" na="50"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1559465961905" s="false" lb="删除请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-23" dt="text" by="110" sby="0" ng="50" na="50"/>
+<sample t="1" it="0" lt="0" ct="1" ts="1559465961904" s="false" lb="删除请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-15" dt="text" by="110" sby="0" ng="50" na="50"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1559465961904" s="false" lb="删除请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-21" dt="text" by="110" sby="0" ng="50" na="50"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1559465961904" s="false" lb="删除请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-29" dt="text" by="110" sby="0" ng="50" na="50"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1559465961904" s="false" lb="删除请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-19" dt="text" by="110" sby="0" ng="50" na="50"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1559465961904" s="false" lb="删除请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-46" dt="text" by="110" sby="0" ng="50" na="50"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1559465961904" s="false" lb="删除请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-8" dt="text" by="110" sby="0" ng="50" na="50"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1559465961903" s="false" lb="删除请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-2" dt="text" by="110" sby="0" ng="50" na="50"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1559465961903" s="false" lb="删除请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-1" dt="text" by="110" sby="0" ng="50" na="50"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1559465961903" s="false" lb="删除请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-30" dt="text" by="110" sby="0" ng="50" na="50"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1559465961903" s="false" lb="删除请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-25" dt="text" by="110" sby="0" ng="50" na="50"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1559465961903" s="false" lb="删除请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-49" dt="text" by="110" sby="0" ng="50" na="50"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1559465961903" s="false" lb="删除请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-12" dt="text" by="110" sby="0" ng="50" na="50"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1559465961903" s="false" lb="删除请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-35" dt="text" by="110" sby="0" ng="50" na="50"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1559465961903" s="false" lb="删除请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-9" dt="text" by="110" sby="0" ng="50" na="50"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1559465961903" s="false" lb="删除请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-47" dt="text" by="110" sby="0" ng="50" na="50"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1559465961902" s="false" lb="删除请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-5" dt="text" by="110" sby="0" ng="50" na="50"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1559465961902" s="false" lb="删除请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-4" dt="text" by="110" sby="0" ng="50" na="50"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1559465961902" s="false" lb="删除请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-11" dt="text" by="110" sby="0" ng="50" na="50"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1559465961902" s="false" lb="删除请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-43" dt="text" by="110" sby="0" ng="50" na="50"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1559465961902" s="false" lb="删除请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-48" dt="text" by="110" sby="0" ng="50" na="50"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1559465961902" s="false" lb="删除请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-32" dt="text" by="110" sby="0" ng="50" na="50"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1559465961901" s="false" lb="删除请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-10" dt="text" by="110" sby="0" ng="50" na="50"/>
+<sample t="331" it="0" lt="0" ct="331" ts="1559465961570" s="false" lb="查询请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-14" dt="text" by="110" sby="0" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /服装/</failureMessage>
+  </assertionResult>
+</sample>
+<sample t="331" it="0" lt="0" ct="331" ts="1559465961570" s="false" lb="查询请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-18" dt="text" by="110" sby="0" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /服装/</failureMessage>
+  </assertionResult>
+</sample>
+<sample t="316" it="0" lt="0" ct="316" ts="1559465961585" s="false" lb="查询请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-20" dt="text" by="110" sby="0" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /服装/</failureMessage>
+  </assertionResult>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="1559465961915" s="false" lb="删除请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-18" dt="text" by="110" sby="0" ng="26" na="26"/>
+<sample t="265" it="0" lt="0" ct="265" ts="1559465961636" s="false" lb="查询请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-28" dt="text" by="110" sby="0" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /服装/</failureMessage>
+  </assertionResult>
+</sample>
+<sample t="329" it="0" lt="0" ct="329" ts="1559465961572" s="false" lb="查询请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-31" dt="text" by="110" sby="0" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /服装/</failureMessage>
+  </assertionResult>
+</sample>
+<sample t="261" it="0" lt="0" ct="261" ts="1559465961640" s="false" lb="查询请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-44" dt="text" by="110" sby="0" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /服装/</failureMessage>
+  </assertionResult>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="1559465961916" s="false" lb="删除请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-31" dt="text" by="110" sby="0" ng="25" na="25"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1559465961916" s="false" lb="删除请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-44" dt="text" by="110" sby="0" ng="25" na="25"/>
+<sample t="261" it="0" lt="0" ct="261" ts="1559465961640" s="false" lb="查询请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-7" dt="text" by="110" sby="0" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /服装/</failureMessage>
+  </assertionResult>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="1559465961901" s="false" lb="删除请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-16" dt="text" by="110" sby="0" ng="50" na="50"/>
+<sample t="257" it="0" lt="0" ct="257" ts="1559465961644" s="false" lb="查询请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-50" dt="text" by="110" sby="0" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /服装/</failureMessage>
+  </assertionResult>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="1559465961918" s="false" lb="删除请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-50" dt="text" by="110" sby="0" ng="23" na="23"/>
+<sample t="261" it="0" lt="0" ct="261" ts="1559465961640" s="false" lb="查询请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-36" dt="text" by="110" sby="0" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /服装/</failureMessage>
+  </assertionResult>
+</sample>
+<sample t="235" it="0" lt="0" ct="235" ts="1559465961666" s="false" lb="查询请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-33" dt="text" by="110" sby="0" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /服装/</failureMessage>
+  </assertionResult>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="1559465961901" s="false" lb="删除请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-17" dt="text" by="110" sby="0" ng="50" na="50"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1559465961920" s="false" lb="删除请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-33" dt="text" by="110" sby="0" ng="21" na="21"/>
+<sample t="230" it="0" lt="0" ct="230" ts="1559465961671" s="false" lb="查询请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-42" dt="text" by="110" sby="0" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /服装/</failureMessage>
+  </assertionResult>
+</sample>
+<sample t="213" it="0" lt="0" ct="213" ts="1559465961688" s="false" lb="查询请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-38" dt="text" by="110" sby="0" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /服装/</failureMessage>
+  </assertionResult>
+</sample>
+<sample t="222" it="0" lt="0" ct="222" ts="1559465961679" s="false" lb="查询请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-26" dt="text" by="110" sby="0" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /服装/</failureMessage>
+  </assertionResult>
+</sample>
+<sample t="212" it="0" lt="0" ct="212" ts="1559465961689" s="false" lb="查询请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-27" dt="text" by="110" sby="0" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /服装/</failureMessage>
+  </assertionResult>
+</sample>
+<sample t="196" it="0" lt="0" ct="196" ts="1559465961705" s="false" lb="查询请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-6" dt="text" by="110" sby="0" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /服装/</failureMessage>
+  </assertionResult>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="1559465961901" s="false" lb="删除请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-22" dt="text" by="110" sby="0" ng="50" na="50"/>
+<sample t="200" it="0" lt="0" ct="200" ts="1559465961701" s="false" lb="查询请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-45" dt="text" by="110" sby="0" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /服装/</failureMessage>
+  </assertionResult>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="1559465961923" s="false" lb="删除请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-45" dt="text" by="110" sby="0" ng="19" na="19"/>
+<sample t="200" it="0" lt="0" ct="200" ts="1559465961701" s="false" lb="查询请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-41" dt="text" by="110" sby="0" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /服装/</failureMessage>
+  </assertionResult>
+</sample>
+<sample t="195" it="0" lt="0" ct="195" ts="1559465961706" s="false" lb="查询请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-40" dt="text" by="110" sby="0" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /服装/</failureMessage>
+  </assertionResult>
+</sample>
+<sample t="178" it="0" lt="0" ct="178" ts="1559465961723" s="false" lb="查询请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-37" dt="text" by="110" sby="0" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /服装/</failureMessage>
+  </assertionResult>
+</sample>
+<sample t="193" it="0" lt="0" ct="193" ts="1559465961708" s="false" lb="查询请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-39" dt="text" by="110" sby="0" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /服装/</failureMessage>
+  </assertionResult>
+</sample>
+<sample t="1" it="0" lt="0" ct="1" ts="1559465961924" s="false" lb="删除请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-39" dt="text" by="110" sby="0" ng="17" na="17"/>
+<sample t="194" it="0" lt="0" ct="194" ts="1559465961707" s="false" lb="查询请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-24" dt="text" by="110" sby="0" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /服装/</failureMessage>
+  </assertionResult>
+</sample>
+<sample t="155" it="0" lt="0" ct="155" ts="1559465961746" s="false" lb="查询请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-3" dt="text" by="110" sby="0" ng="50" na="50">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /服装/</failureMessage>
+  </assertionResult>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="1559465961926" s="false" lb="删除请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-3" dt="text" by="110" sby="0" ng="16" na="16"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1559465961925" s="false" lb="删除请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-24" dt="text" by="110" sby="0" ng="17" na="17"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1559465961925" s="false" lb="删除请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-37" dt="text" by="110" sby="0" ng="17" na="17"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1559465961924" s="false" lb="删除请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-41" dt="text" by="110" sby="0" ng="17" na="17"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1559465961924" s="false" lb="删除请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-40" dt="text" by="110" sby="0" ng="17" na="17"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1559465961922" s="false" lb="删除请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-6" dt="text" by="110" sby="0" ng="19" na="19"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1559465961921" s="false" lb="删除请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-27" dt="text" by="110" sby="0" ng="19" na="19"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1559465961921" s="false" lb="删除请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-26" dt="text" by="110" sby="0" ng="19" na="19"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1559465961921" s="false" lb="删除请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-38" dt="text" by="110" sby="0" ng="19" na="19"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1559465961921" s="false" lb="删除请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-42" dt="text" by="110" sby="0" ng="19" na="19"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1559465961920" s="false" lb="删除请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-36" dt="text" by="110" sby="0" ng="21" na="21"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1559465961918" s="false" lb="删除请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-7" dt="text" by="110" sby="0" ng="23" na="23"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1559465961916" s="false" lb="删除请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-28" dt="text" by="110" sby="0" ng="25" na="25"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1559465961915" s="false" lb="删除请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-20" dt="text" by="110" sby="0" ng="26" na="26"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1559465961915" s="false" lb="删除请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-14" dt="text" by="110" sby="0" ng="26" na="26"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1559465961905" s="false" lb="删除请求" rc="null 0" rm="java.sql.SQLException: No pool found named: &apos;localmysql&apos;, ensure Variable Name matches Variable Name of JDBC Connection Configuration" tn="性能测试_查询操作_商品分类查询 1-34" dt="text" by="110" sby="0" ng="50" na="50"/>
+
+
+</testResults>
